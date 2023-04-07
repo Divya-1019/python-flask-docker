@@ -1,10 +1,14 @@
 Running the application using, python3 -m flask run
+
 To test that the application is working, open a new browser and navigate to http://localhost:5000.
 
-Directory structure
+Directory structure for project,
 Flask-docker
+
 |____ app.py
+
 |____ requirements.txt
+
 |____ Dockerfile
 
 
